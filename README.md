@@ -39,6 +39,8 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+<br/>
+
 ## Connect with me:
 <p align="left">
 
