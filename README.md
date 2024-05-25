@@ -41,8 +41,6 @@
 
 <br/>
 
-<a href="https://github.com/v1kkz/github-readme-activity-graph"><img alt="v1k Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=v1kkz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 ## Connect with me:
 <p align="left">
 
@@ -56,5 +54,4 @@
 
 ## ❤  Followers: 
 
-</a>
 <a href="https://github.com/v1kkz?tab=followers"><img src="https://img.shields.io/github/followers/v1kkz?label=Followers&style=social" alt="GitHub Badge"></a>
