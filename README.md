@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/v1kkz)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/d1mov)**
 
 - 📫 How to reach me **Telegram:- [@v1kkzz](https://t.me/v1kkzz)**
 
