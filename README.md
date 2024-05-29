@@ -54,4 +54,4 @@
 
 ## ❤  Followers: 
 
-<a href="https://github.com/v1kkz?tab=followers"><img src="https://img.shields.io/github/followers/v1kkz?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/d1mov?tab=followers"><img src="https://img.shields.io/github/followers/d1mov?label=Followers&style=social" alt="GitHub Badge"></a>
